@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="LinkedIn 2.png" >
+  <img src="linkedin2.jpeg" >
 </div>
 
 
